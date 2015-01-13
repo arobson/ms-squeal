@@ -27,7 +27,7 @@
         "lodash": "~2.4.1",
         "machina": "~0.3.8",
         "monologue.js": "0.2.1",
-        "mssql": "~1.1.0",
+        "mssql": "arobson/node-mssql#fix-ad-login",
         "when": "3.2.3"
     },
     "devDependencies": {
